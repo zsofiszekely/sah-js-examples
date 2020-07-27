@@ -10,3 +10,19 @@ let post ={
 
 console.log(colors);
 console.log(post);
+
+
+let age = 18;
+
+if (age >= 18) {
+ console.log("you're an adult!");
+} else {
+    console.log("you're a kid!");
+}
+
+for (let i = 0; i < 10; i++) {
+    console.log(i);  
+}
+
+
+console.log("this is the end of our code")
